@@ -1,0 +1,9 @@
+@import './../../assets/styles.scss';
+
+.home-div {
+  width: 35vw;
+  border-radius: 15px;
+  border: $light-red solid 2px;
+  padding: 3vh 3vw;
+  margin: 1vh 1vw;
+}

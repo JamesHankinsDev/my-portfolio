@@ -1,0 +1,77 @@
+{
+  "Accenture": [
+    {
+      "title": "Digital Integrations Analyst",
+      "location": "Seattle, WA",
+      "time": {
+        "start": "June, 2019",
+        "end": "current"
+      },
+      "description": ""
+    },
+    {
+      "title": "Web Development Apprentice",
+      "location": "Cambridge, MA",
+      "time": {
+        "start": "March, 2019",
+        "end": "June, 2019"
+      },
+      "description": ""
+    }
+  ],
+  "General Assembly": [
+    {
+      "title": "Software Engineering Fellow",
+      "location": "Boston, MA",
+      "time": {
+        "start": "June, 2019",
+        "end": "September, 2019"
+      },
+      "description": [
+        "Joined 12 week, 420+ hour immersive software engineering program.",
+        "Project oriented course work developing individual and collaborative web applications",
+        "Studied current JavaScript front-end and back-end frameworks including Express, React, Bootstrap"
+      ]
+    }
+  ],
+  "EF Education First": [
+    {
+      "title": "",
+      "location": "",
+      "time": {
+        "start": "",
+        "end": ""
+      },
+      "description": ""
+    },
+    {
+      "title": "",
+      "location": "",
+      "time": {
+        "start": "",
+        "end": ""
+      },
+      "description": ""
+    }
+  ],
+  "L.L. Bean": [
+    {
+      "title": "",
+      "location": "",
+      "time": {
+        "start": "",
+        "end": ""
+      },
+      "description": ""
+    },
+    {
+      "title": "",
+      "location": "",
+      "time": {
+        "start": "",
+        "end": ""
+      },
+      "description": ""
+    }
+  ]
+}

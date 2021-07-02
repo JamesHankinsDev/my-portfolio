@@ -1,0 +1,22 @@
+{
+  "Main": {
+    "title": "Hello, and welcome to my portfolio.",
+    "body": "Please take some time to poke around and learn a bit more about me"
+  },
+  "AboutMe": {
+    "title": "About Me",
+    "body": "You'll find out a bit more about who I am on my 'About Me' page"
+  },
+  "Experience": {
+    "title": "Experience",
+    "body": "Learn about my profesional background in the 'Experience' section"
+  },
+  "Resume": {
+    "title": "Resume",
+    "body": "Find and print a CV on the 'Resume' tab"
+  },
+  "Contact": {
+    "title": "Contact Me",
+    "body": "Get in touch on social media or via email on my 'Contact' page."
+  }
+}
